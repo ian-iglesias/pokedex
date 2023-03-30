@@ -2,8 +2,8 @@
   <h1> Potência Tech Angular Developer </h1>
   <h2> Bootcamp feito pela Digital Innovation One<br> Patrocinado pelo iFood </h2>
 
-<img height="50vh" src="https://github.com/ian-iglesias/pokedex/blob/main/assets/image-readme/dio-logo.png" />
-<img height="40vh" src="https://github.com/ian-iglesias/pokedex/blob/main/assets/image-readme/ifood-logo.png" />
+<img height="100vh" src="https://github.com/ian-iglesias/pokedex/blob/main/assets/image-readme/dio-logo.png" />
+<img height="100vh" src="https://github.com/ian-iglesias/pokedex/blob/main/assets/image-readme/ifood-logo.png" />
 
   <em> Este projeto foi feito utilizando as seguintes linguagens: </em><br><br>
 
