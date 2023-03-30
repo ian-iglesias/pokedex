@@ -12,6 +12,6 @@
 
   <div align="center">
 
-    <img height="150vh" src="https://github.com/ian-iglesias/Workspace/blob/master/pokedex/assets/image-readme/potencia-tech-angular-ifood.png" />
+    <img height="150vh" src="https://github.com/ian-iglesias/pokedex/blob/04e8c60fc8aac0e21cb60d03cdf7f1d8dce71852/assets/image-readme/potencia-tech-angular-ifood.png" />
 
   </div>
